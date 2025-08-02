@@ -17,6 +17,7 @@ This project is a simple Netflix front page clone built using HTML and CSS. It r
 
 📸 Preview
 
+![Netflix Front Page](https://github.com/user-attachments/assets/b4e29052-4e80-41d9-b548-3d0e1ac7fb2a)
 
 📚 Learning Outcome
 
