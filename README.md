@@ -4,16 +4,16 @@ This project is a simple Netflix front page clone built using HTML and CSS. It r
 
 🔧 Tech Stack
 
-- HTML 5
-- CSS 3
+- HTML 5.
+- CSS 3.
 
 ✨ Features
 
-- Clean and modern UI
-- Netflix-style landing page
-- CSS positioning for layout (absolute, relative, flexbox)
-- Responsive elements (basic level)
-- Hover effects on buttons and links
+- Clean and modern UI.
+- Netflix-style landing page.
+- CSS positioning for layout (absolute, relative, flexbox).
+- Responsive elements (basic level).
+- Hover effects on buttons and links.
 
 📸 Preview
 
@@ -21,6 +21,6 @@ This project is a simple Netflix front page clone built using HTML and CSS. It r
 
 📚 Learning Outcome
 
-- Improved understanding of CSS 'position' property
-- Practiced layout building without frameworks
-- Developed confidence in frontend basics
+- Improved understanding of CSS 'position' property.
+- Practiced layout building without frameworks.
+- Developed confidence in frontend basics.
