@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-image: url("./Assests/Images/Netflix_Background_Image.jpg");
+    background-size: cover;
+}
+
+.main_box {
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0,0,0,0.7);
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    color: black;
+    
+}
+
+.main_box .netflix img {
+    margin-top: 10px;
+    margin-left: 100px;
+    height: 100px;
+    width: 220px;
+}
+
+.main_box .info .ads {
+    font-family: "arial black", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 170px;
+    left: 350px;
+}
+
+.main_box .info .det_membership {
+    color: white;
+    font-size: 20px;
+    font-family: "arial black", sans-serif;
+    position: absolute;
+    top: 330px;
+    left: 450px;
+}
+
+.main_box .info .enroll_det {
+    color: white;
+    font-size: 1.1rem;
+    font-family: Calibri;
+    position: absolute;
+    top: 375px;
+    left: 380px;
+}
+
+.main_box .sel_lang .select_len #language {
+    font-family: "arial black", sans-serif;
+    height: 35px;
+    width: 120px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    left: 830px;
+    top: 25px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.sign_in {
+    color: white;
+    height: 35px;
+    width: 90px;
+    font-size: 20px;
+    position: absolute;
+    left: 970px;
+    top: 24px;
+    background-color: rgba(255,0,0,1);
+    border: none;
+    border-radius: 6px;
+}
+
+.main_box .sel_lang .email #email {
+    height: 50px;
+    width: 340px;
+    color: white;
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    top: 420px;
+    left: 330px;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding-left: 15px;
+}
+
+.main_box .sel_lang .get_started {
+    color: white;
+    background-color: rgba(255,0,0,1);
+    font-size: 25px;
+    height: 50px;
+    width: 225px;
+    position: absolute;
+    top: 420px;
+    left: 700px;
+    border: none;
+    border-radius: 6px;
+    padding-left: 5px;
+}
+
+.main_box .sel_lang .get_started i {
+    padding-left: 12px;
+}
+
